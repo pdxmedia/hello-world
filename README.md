@@ -1,3 +1,3 @@
 # hello-world
-beginning github <br/ >
+beginning github
 pdx media group / pdxflyers.com developer designer - principal 
